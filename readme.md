@@ -18,7 +18,7 @@ If you are interested in getting some spellchecking capabilities in the markdown
 
    When you start your Jupyter notebook you will see a new tab: The [configuration interface](https://github.com/Jupyter-contrib/jupyter_nbextensions_configurator). In the main menu of Jupyter notebook a new tab named *Nbextension* will appear. 
 
-2. You need to get hold of suitable dictionaries in UTF-8 encoding. I am including some en British English and Spanish in this repo. 
+2. You need to get hold of suitable dictionaries in UTF-8 encoding. I am including some en British English and Spanish (Spain and Mexico) in this repo. 
 
    Download the files and place them in the following directory
 
@@ -40,11 +40,19 @@ If you are interested in getting some spellchecking capabilities in the markdown
 
    - Dictionary .aff file: `./typo/dictionaries/en_GB.aff`
 
-   For the Spanish ones:
+   For the Spanish (Spain) ones:
 
    - Language code for typo.js: `es_ES`
-
    - Dictionary .dic file: `./typo/dictionaries/es_ES.dic`
-
    - Dictionary .aff file: `./typo/dictionaries/es_ES.aff`
+
+   For the Spanish (Mexico) ones:
+   
+   - Language code for typo.js: `es_MX`
+   
+   - Dictionary .dic file: `./typo/dictionaries/es_MX.dic`
+   
+   - Dictionary .aff file: `./typo/dictionaries/es_MX.aff`
+
+More dictionaries are available from: https://github.com/wooorm/dictionaries
 

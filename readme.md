@@ -1,6 +1,6 @@
-# Spellcheck Jupyter Notebooks
+# Spell check Jupyter Notebooks
 
-If you are interested in getting some spellchecking capabilities in the markdown cells of your Jupyter notebookm take a look at these instrucctions. 
+If you are interested in getting some spellchecking capabilities in the markdown cells of your Jupyter notebook, take a look at these instrucctions. 
 
 1. Install Jupyter notebook extensions ([nbextensions](https://github.com/ipython-contrib/jupyter_contrib_nbextensions)). This includes [Spellchecker](https://nicoguaro.github.io/posts/ortografia_jupyter/.) and a that is the extension we are after in this case.
 

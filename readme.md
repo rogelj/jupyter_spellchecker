@@ -1,4 +1,11 @@
 # Spell check Jupyter Notebooks
+[![License: GPL v3](https://img.shields.io/badge/License-GPL%20v3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
+[![Python Version](https://img.shields.io/badge/python-3.x-orange)](https://www.python.org)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
+[![Twitter](https://img.shields.io/badge/twitter-quantum__tunnel-blue)](http://twitter.com/quantum_tunnel)
+[![BioSite](https://img.shields.io/badge/BioSite-jrogel-blue)](https://bio.site/jrogel)
+[![Website](https://img.shields.io/badge/web-jrogel-black)](https://jrogel.com)
+[![Website](https://img.shields.io/badge/web-RogueLoop-black)](https://rogueloop.jrogel.com)
 
 If you are interested in getting some spellchecking capabilities in the markdown cells of your Jupyter notebook, take a look at these instrucctions. 
 
